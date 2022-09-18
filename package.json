@@ -18,7 +18,13 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
+  "keywords": [
+    "shopify",
+    "verify",
+    "app proxy",
+    "cryptograhic",
+    "signature"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/JakobOffersen/shopify-verify-app-proxy",
   "repository": {
