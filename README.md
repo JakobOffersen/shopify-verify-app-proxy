@@ -1,5 +1,7 @@
 # shopify-verify-app-proxy
-Verify requests coming from your shopify theme extension (app-block / embedded app block) through a Shopify App Proxy
+Verify requests coming from your shopify theme extension (app-block / embedded app block) through a Shopify App Proxy.
+
+NOTE: If you use `express`, you can use the [middleware](https://www.npmjs.com/package/shopify-verify-app-proxy-middleware) based on this package.
 
 ## Installation
 ```
