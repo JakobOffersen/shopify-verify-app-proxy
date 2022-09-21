@@ -1,6 +1,6 @@
 {
   "name": "shopify-verify-app-proxy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Verify requests coming from your shopify theme extension (app-block / embedded app block) through a Shopify App Proxy",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
